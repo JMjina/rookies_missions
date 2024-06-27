@@ -1,4 +1,4 @@
-# PR
+# PR Type
 
 # DESCRIPTION
 
